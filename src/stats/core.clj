@@ -151,7 +151,7 @@
 
 (def within_one_stddev_s (filter #(and (< % plusstdevs) (> % minusstdevs)) data))
 
-(def proportion_within_one_stddev_s (/ (count within_one_stddev)
+(def proportion_within_one_stddev_s (/ (count within_one_stddev_s)
                                      (count data)))
 
 (def sdp (standardize_distribution_p data))
