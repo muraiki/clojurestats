@@ -1,0 +1,7 @@
+(ns stats.core-test
+  (:use clojure.test
+        stats.core))
+
+(deftest a-test
+  (testing "FIXME, I fail."
+    (is (= 0 1))))
