@@ -2,7 +2,7 @@
 
 Some basic stats functions I've been writing as I progress through the Udacity course [Statistics: The Science of Decisions](https://www.udacity.com/course/st095)
 
-![Screenshot of stats in LT](https://github.com/muraiki/clojurestats/blob/master/screenshot.png "Screenshot of stats in LT")
+![Screenshot](https://github.com/muraiki/clojurestats/blob/master/screenshot.png)
 
 The intent is to just load up core.clj in Light Table and play around. If you really want to do stats, use a real library like [Incanter](http://incanter.org)
 
