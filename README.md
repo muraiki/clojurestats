@@ -2,6 +2,8 @@
 
 Some basic stats functions I've been writing as I progress through the Udacity course [Statistics: The Science of Decisions](https://www.udacity.com/course/st095)
 
+![Screenshot of stats in LT](https://github.com/muraiki/raw/master/screenshot.png "Screenshot of stats in LT")
+
 The intent is to just load up core.clj in Light Table and play around. If you really want to do stats, use a real library like [Incanter](http://incanter.org)
 
 I'm just putting this up here to keep things in sync across multiple computers, but maybe somebody will find it useful! I might come back to this and make it work in cljs...
